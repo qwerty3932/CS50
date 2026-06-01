@@ -1,0 +1,16 @@
+sort1 uses: bubble sort
+
+How do you know?: Because when sorting the sorted numbers, it reached the end much more quickly
+
+sort2 uses: merge sort
+
+How do you know?: Is the fastest between the others
+
+sort3 uses: selection sort
+
+How do you know?: maintains the same speed in every single check
+
+
+sort1 0,052s || 0,063 || 0,031s
+sort2 0,020s || 0,031 || 0,020
+sort3 0,059 || 0,047s || 0,044s
