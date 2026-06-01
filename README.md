@@ -6,4 +6,4 @@ Repositório feito para arquivar os exercícios feitos no curso CS50 da Harvard
           
 ## Projetos em destaque
 ### DNA (Week 6)
-Um programa capaz de identificar uma pessoa por meio de uma leitura de uma sequência genética, tendo como base um banco de dados com dados genéticos
+Um programa capaz de identificar uma pessoa por meio de uma leitura de uma sequência genética, tendo como base um banco de dados com dados genéticos. Programado em Python com o objetivo de aprender sobre dicionários e listas
